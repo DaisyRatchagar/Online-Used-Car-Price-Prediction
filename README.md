@@ -14,9 +14,9 @@ This project is a machine learning-based notebook to predict the "Price of Onlin
 
 ## 🚀 How to Use This Project
 
+```bash
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/DaisyRatchagar/Online-Used-Car-Price-Prediction.git
 cd Online-Used-Car-Price-Prediction
 
